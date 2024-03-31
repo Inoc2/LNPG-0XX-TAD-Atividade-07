@@ -11,11 +11,11 @@ typedef struct permissionsEmployee {
 };
 
 char* updateStatsEmployee(char* permissionsEmployee, char* positionEmployee, double salaryEmployee) {
-    return 0;
+    return NULL;
 }
 
 char* transferDepartmentEmployee(int ID, char *departmentEmployee) {
-    return 0;
+    return NULL;
 }
 
 char* currentDepartment(int ID, char *departmentEmployee) {
