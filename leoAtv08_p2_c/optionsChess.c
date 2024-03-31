@@ -7,7 +7,7 @@ typedef struct optionsChess {
     char* positionPiece;
     char* newPositionPiece;
     char* positionOccupied;
-} ;
+};
 
 char* movePiece(char* colorPiece, char* typePiece, char* positionPiece, char* newPositionPiece) {
     return NULL;
