@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    addEmployee("José", "Técnico de TI", "Departamento de Informática", "DIP", 999, 2000.00);
+    	addEmployee("José", "Técnico de TI", "Departamento de Informática", "DIP", 999, 2000.00);
 	removeEmployee("José", "Técnico de TI", "Departamento de Informática", "DIP", 999, 2000.00);
 	informationsEmployee("José", "Técnico de TI", "Departamento de Informática", "DIP", 999, 2000.00);
 
