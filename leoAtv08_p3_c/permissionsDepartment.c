@@ -15,7 +15,7 @@ char* addEmployee(char* nameEmployee, char* positionEmployee, char* departmentEm
 }
 
 char* removeEmployee(char* nameEmployee, char* positionEmployee, char* departmentEmployee, char* localizationEmployee, int idEmployee, double salaryEmployee) {
-    return 0;
+    return NULL;
 }
 
 char* informationsEmployee(char* nameEmployee, char* positionEmployee, char* departmentEmployee, char* localizationEmployee, int idEmployee, double salaryEmployee) {
